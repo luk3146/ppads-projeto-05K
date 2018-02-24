@@ -4,8 +4,8 @@
 
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
+* Gabriel Domenicali
+* Isadora Prado
+* Lucas Pafume
+* Miguel Pereira
+* Ramon Rufino
