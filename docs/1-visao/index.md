@@ -1,4 +1,4 @@
-# Documento de Visão do Projeto "NOME DO PROJETO"
+# Documento de Visão do Projeto "MacCupons"
 
 Este documento apresenta uma solução de software para o projeto *"MacCupons"*, solicitado pelo cliente *"MacFriends S.A"*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades 
