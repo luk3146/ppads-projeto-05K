@@ -68,7 +68,7 @@ Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
 ### Protótipos para funcionalidade 2
 
-![]|(CadastroAlunos.png)
+![](CadastroAlunos.png)
 
 Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
