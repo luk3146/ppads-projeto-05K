@@ -62,13 +62,13 @@ esperadas do sistema.
 
 ### Protótipos para funcionalidade 1
 
-![](proto1.png)
+![](CadastroComerciantes.png)
 
 Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
 ### Protótipos para funcionalidade 2
 
-![](proto2.png)
+![]CadastroAlunos.png.png)
 
 Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
