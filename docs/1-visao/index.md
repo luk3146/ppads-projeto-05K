@@ -64,12 +64,12 @@ esperadas do sistema.
 
 ![](CadastroComerciantes.png)
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
+Fonte: Exemplos gerados pelo assistente do **Microsoft Visual Studio**.
 
 ### Protótipos para funcionalidade 2
 
 ![](CadastroAlunos.png)
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
+Fonte: Exemplos gerados pelo assistente do **Microsoft Visual Studio**.
 
 
