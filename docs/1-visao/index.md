@@ -72,4 +72,4 @@ Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
 Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
-### Protótipos para funcionalidade N
+
