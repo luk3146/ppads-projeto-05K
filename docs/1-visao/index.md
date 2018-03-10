@@ -35,7 +35,7 @@ esperadas do sistema.
 * Alunos e funcionarios do Mackenzie;
 * Comerciantes locais;
 * Patrocinadores.
-*
+
 
 ## Usuários
 
