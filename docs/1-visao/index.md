@@ -24,18 +24,18 @@ esperadas do sistema.
 * Ajudar a relação comercio/cliente;
 * Facilitar a vida do aluno/professor.
 
-## Integração com outros sistemas
+## Integração com outros sistemas 
 
 * Google Maps;
 * Facebook;
 * Instagram.
-
  
 ## Interessados
 
-* Alunos/professores;
+* Alunos e funcionarios do Mackenzie;
 * Comerciantes locais;
 * Patrocinadores.
+*
 
 ## Usuários
 
