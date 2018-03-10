@@ -8,13 +8,11 @@
 
 ## 2. Especificação dos casos de uso
 
-**Instruções do professor**: Para cada caso de uso, criar as tabelas com a especificação do caso de uso. Siga o exemplo dado abaixo:
-
 ### 2.1. Caso de uso **Escolher prato**
 ![](EscolherPrato.png)
 ### 2.2. Caso de uso **Escolher restaurante**
 ![](EscolherRestaurante.png)
-### 2.2. Caso de uso **Pegar codigo de desconto**
+### 2.3. Caso de uso **Pegar codigo de desconto**
 ![](PegarCodigoDeDesconto.png)
-### 2.2. Caso de uso **Preencher formulario**
+### 2.4. Caso de uso **Preencher formulario**
 ![](PreencherFormulario.png)
