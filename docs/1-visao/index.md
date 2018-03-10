@@ -35,7 +35,7 @@ esperadas do sistema.
 * Alunos e funcionarios do Mackenzie;
 * Comerciantes locais;
 * Patrocinadores.
-
+*
 
 ## Usuários
 
@@ -45,11 +45,11 @@ esperadas do sistema.
 
 ## Funcionalidades do produto
 
-* Cadastro de Alunos;
-* Cadastro de professores;
-* Cadastro de Comerciantes;
-* Cadastro de descontos;
-* Cadastro de Restaurantes.
+* Cadastro de Mackenzistas;
+* Lista Pratos/Preço mais Requisitados da Região;
+* Cupons de Descontos;
+* Opnião e Comentários de rede sociais;
+* Localização de Restaurantes Próximo ao Campus;
 
 ## Restrições do projeto
 
@@ -70,6 +70,6 @@ Fonte: Exemplos gerados pelo assistente do **Microsoft Visual Studio**.
 
 ![](CadastroAlunos.png)
 
-Fonte: Exemplos gerados pelo assistente do **Microsoft Visual Studio**. 
+Fonte: Exemplos gerados pelo assistente do **Microsoft Visual Studio**.
 
 
