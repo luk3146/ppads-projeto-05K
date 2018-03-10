@@ -70,6 +70,6 @@ Fonte: Exemplos gerados pelo assistente do **Microsoft Visual Studio**.
 
 ![](CadastroAlunos.png)
 
-Fonte: Exemplos gerados pelo assistente do **Microsoft Visual Studio**.
+Fonte: Exemplos gerados pelo assistente do **Microsoft Visual Studio**. 
 
 
