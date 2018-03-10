@@ -17,4 +17,4 @@
 ### 2.2. Caso de uso **Pegar codigo de desconto**
 ![](PegarCodigoDeDesconto.png)
 ### 2.2. Caso de uso **Preencher formulario**
-![](PreencherFormulario.pmn)]
+![](PreencherFormulario.png)
