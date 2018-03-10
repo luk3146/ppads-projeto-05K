@@ -13,7 +13,7 @@
 ### 2.1. Caso de uso **REGISTRAR CHAMADO**
 
 
-(EscolherPrato.png)
-(EscolherRestaurante.png)
-(PegarCodigoDeDesconto.png)
-(PreencherFormulario.pmn)
+!(EscolherPrato.png)
+!(EscolherRestaurante.png)
+!(PegarCodigoDeDesconto.png)
+!(PreencherFormulario.pmn)
