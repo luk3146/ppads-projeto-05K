@@ -1,5 +1,5 @@
 # Detalhamento dos componentes
 
-![](Mack Cupons Diagrama de Classes (1).jpg)
+![](Mack Cupons Diagrama de Classes (1).jpeg)
 
 Veja alguns [exemplos de diagramas de classes](http://www.itmeyer.at/umlet/uml2/travelDetailDiagram.html).
