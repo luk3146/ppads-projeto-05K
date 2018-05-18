@@ -3,5 +3,5 @@
 ![](MackCuponsDiagramadeClasses.jpeg)
 
 # Detalhamento do WAE- Diagrama de aplicação.
-![](MWAE.png)
+![](WAE.png)
 
