@@ -15,6 +15,7 @@ Em cada procedimento de teste, siga o modelo abaixo:
 
 | Passo | Procedimento | Resultado esperado |
 | --- | --- | --- |
-| 1 | Executar o navegador Chrome e acesse a URL http://18.188.27.136/mackcupons/ | Apresentação da tela de login do sistema | ![](LoginMack.png)
+| 1 | Executar o navegador Chrome e acesse a URL http://18.188.27.136/mackcupons/ | Apresentação da tela de login do sistema | 
+![](LoginMack.png)
 | 2 | Preencher os campos **login** e **password** com os dados de um usuário com perfil de **Aluno ou funcionario**. | Apresentação do painel do menu principal |
 | 3 | Clicar no link **Listar Lanchonetes e Cupons**. | Apresentação das 5 tarefas cadastradas para o funcionário. |
