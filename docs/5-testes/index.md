@@ -8,7 +8,7 @@ Em cada procedimento de teste, siga o modelo abaixo:
 
 **Preparação:**
 
-* Criar no sistema um usuário com o perfil de **Funcionário**.
+* Criar no sistema um usuário com o perfil de **Aluno ou Funcionário**.
 * Cadastrar 5 tarefas para o usuário criado.
 
 **Procedimento de teste:**
