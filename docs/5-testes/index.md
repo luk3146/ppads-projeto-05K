@@ -29,6 +29,7 @@ Em cada procedimento de teste, siga o modelo abaixo:
 | 6 | Pegar o cupom que mais lhe agrada. | Apresentação dos cupons e codigos para oferta. |
 
 ![](MapaDoMackenzie.png)
+
 | Passo | Procedimento | Resultado esperado |
 | --- | --- | --- |
 | 7 | Após pegar o cupom, clique em "Lanchonetes e Cupons". | Apresentação do menu com o mapa do Mackenzie. | 
