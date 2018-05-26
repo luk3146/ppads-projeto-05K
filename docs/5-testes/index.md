@@ -20,8 +20,17 @@ Em cada procedimento de teste, siga o modelo abaixo:
 | 2 | Preencher os campos **login** e **password** com os dados de um usuário com perfil de **Aluno ou funcionario**. | Apresentação do painel do menu principal. |
 | 3 | Clicar no link **Listar Lanchonetes e Cupons**. | Apresentação das 5 tarefas cadastradas para o funcionário. |
 
+![](Cupons.png)
+
 | Passo | Procedimento | Resultado esperado |
 | --- | --- | --- |
-| 4 | Após clicar no Listar lanchonetes e Cupons, clique em algum restaurante. | Apresentação do menu com lanchonetes | 
-| 5 | Verificar qual lanchonete de seu gosto e verificar as promoções.| Apresentação da lanchonete |
+| 4 | Após clicar no Listar lanchonetes e Cupons, clique em algum restaurante. | Apresentação do menu com lanchonetes. | 
+| 5 | Verificar qual lanchonete de seu gosto e verificar as promoções.| Apresentação da lanchonete. |
 | 6 | Pegar o cupom que mais lhe agrada. | Apresentação dos cupons e codigos para oferta. |
+
+![](MapaDoMackenzie.png)
+| Passo | Procedimento | Resultado esperado |
+| --- | --- | --- |
+| 7 | Após pegar o cupom, clique em "Lanchonetes e Cupons". | Apresentação do menu com o mapa do Mackenzie. | 
+| 8 | Aguardar o mapa carregar ou fazer o download do PDF.| Apresentação do mapa completo. |
+| 9 | Abrir o mapa e verificar onde se encontra a lanchonete desejada. | Encontrar a lanchonete. |
