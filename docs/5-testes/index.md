@@ -4,7 +4,7 @@ Para cada caso de uso, elabore um **procedimento de teste** para testar o cenár
 
 Em cada procedimento de teste, siga o modelo abaixo:
 
-**Nome do caso de uso:** Consultar tarefas
+**Nome do caso de uso:** Fazer o cadastro no site.
 
 **Preparação:**
 
@@ -18,15 +18,19 @@ Em cada procedimento de teste, siga o modelo abaixo:
 | --- | --- | --- |
 | 1 | Executar o navegador Chrome e acesse a URL http://18.188.27.136/mackcupons/ | Apresentação da tela de login do sistema | 
 | 2 | Preencher os campos **login** e **password** com os dados de um usuário com perfil de **Aluno ou funcionario**. | Apresentação do painel do menu principal. |
-| 3 | Clicar no link **Listar Lanchonetes e Cupons**. | Apresentação das 5 tarefas cadastradas para o funcionário. |
+| 3 | Após o login, a mensagem **Nome** logado com sucesso, seja bem vindo!. | Home page do site. |
+
+**Nome do caso de uso:** Verificar as lanchonetes.
 
 ![](Cupons.png)
 
 | Passo | Procedimento | Resultado esperado |
 | --- | --- | --- |
-| 4 | Após clicar no Listar lanchonetes e Cupons, clique em algum restaurante. | Apresentação do menu com lanchonetes. | 
+| 4 |O usuario vai clicar no Listar "lanchonetes e Cupons", clique em algum restaurante. | Apresentação do menu com lanchonetes. | 
 | 5 | Verificar qual lanchonete de seu gosto e verificar as promoções.| Apresentação da lanchonete. |
 | 6 | Pegar o cupom que mais lhe agrada. | Apresentação dos cupons e codigos para oferta. |
+
+**Nome do caso de uso:** Encontrar as lanchonetes.
 
 ![](MapaDoMackenzie.png)
 
@@ -35,3 +39,9 @@ Em cada procedimento de teste, siga o modelo abaixo:
 | 7 | Após pegar o cupom, clique em "Lanchonetes e Cupons". | Apresentação do menu com o mapa do Mackenzie. | 
 | 8 | Aguardar o mapa carregar ou fazer o download do PDF.| Apresentação do mapa completo. |
 | 9 | Abrir o mapa e verificar onde se encontra a lanchonete desejada. | Encontrar a lanchonete. |
+
+
+**Nome do caso de uso:** Compartilhar o site com os amigos.
+
+
+
