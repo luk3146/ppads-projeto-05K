@@ -50,3 +50,8 @@ Em cada procedimento de teste, siga o modelo abaixo:
 | 10 | Após pegar o cupom, no rodapé do site, voce vai encontrar o link do Facebook para compartilhar. | Apresentação do compartilhamento. | 
 |11 | Após pegar o mapa, no rodapé do site, voce vai encontrar o link do Facebook para compartilhar. | Apresentação do compartilhamento.|
 | 12 | Voce vai abrir o link e será redirecionado para o Facebook, só curtir a página para saber das novidades | ![](Share.png) |
+
+Página de compartilhamento do Facebook:
+![](Facebook.png)
+
+
