@@ -59,19 +59,19 @@ Página de compartilhamento do Facebook:
 
 | Passo | Procedimento | Resultado esperado |
 | --- | --- | --- |
-| 10 | Após o acesso normal, seu acesso pode ser tornado administrador, com isso voce consegue acessar o site de outro modo.  | Apresentação do local. | 
+| 13 | Após o acesso normal, seu acesso pode ser tornado administrador, com isso voce consegue acessar o site de outro modo.  | Apresentação do local. | 
 
 ![](MackCuponsGestao.png)
 
 | Passo | Procedimento | Resultado esperado |
 | --- | --- | --- |
-|11 | Após acessar como administrador, voce vai clicar em "Mackenzistas" e após isso em "listar alunos". | Apresentação do do local.|
+|14 | Após acessar como administrador, voce vai clicar em "Mackenzistas" e após isso em "listar alunos". | Apresentação do do local.|
 
 ![](ListarAlunos.png)
 
 | Passo | Procedimento | Resultado esperado |
 | --- | --- | --- |
-| 12 | Vai abrir o local em que voce consgue exportar os usuarios do site e consegue alterar o login de comum para administrador |Apresentação do local. |
+| 15 | Vai abrir o local em que voce consgue exportar os usuarios do site e consegue alterar o login de comum para administrador |Apresentação do local. |
 
 ![](Gestao.png)
 
