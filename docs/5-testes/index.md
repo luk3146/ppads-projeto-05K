@@ -57,13 +57,16 @@ Página de compartilhamento do Facebook:
 
 **Nome do caso de uso:** Adicionar cupons -  Modo administrador.
 
-![](CompartilharSite.png)
+![](MackCuponsGestao.png)
 
 | Passo | Procedimento | Resultado esperado |
 | --- | --- | --- |
-| 10 | Após pegar o cupom, no rodapé do site, voce vai encontrar o link do Facebook para compartilhar. | Apresentação do compartilhamento. | 
-|11 | Após pegar o mapa, no rodapé do site, voce vai encontrar o link do Facebook para compartilhar. | Apresentação do compartilhamento.|
-| 12 | Voce vai abrir o link e será redirecionado para o Facebook, só curtir a página para saber das novidades | ![](Share.png) |
+| 10 | Após o acesso normal, seu acesso pode ser tornado administrador, com isso voce consegue acessar o site de outro modo.  | Apresentação do local. | 
+|11 | Após acessar como administrador, voce vai clicar em "Mackenzistas" e após isso em "listar alunos". | Apresentação do do local.|
 
-Página de compartilhamento do Facebook:
-![](Facebook.png)
+![](ListarAlunos.png)
+
+| 12 | Vai abrir o local em que voce consgue exportar os usuarios do site e consegue alterar o login de comum para administrador | ![](Share.png) |
+
+![](Gestao.png)
+
