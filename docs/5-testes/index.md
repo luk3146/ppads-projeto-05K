@@ -55,7 +55,7 @@ Página de compartilhamento do Facebook:
 ![](Facebook.png)
 
 
-**Nome do caso de uso:** Adicionar cupons -  Modo administrador.
+**Nome do caso de uso:** Verificar usuarios -  Modo administrador.
 
 | Passo | Procedimento | Resultado esperado |
 | --- | --- | --- |
@@ -74,4 +74,24 @@ Página de compartilhamento do Facebook:
 | 15 | Vai abrir o local em que voce consgue exportar os usuarios do site e consegue alterar o login de comum para administrador |Apresentação do local. |
 
 ![](Gestao.png)
+
+**Nome do caso de uso:** Adicionar cupons ou lojas -  Modo administrador.
+
+| Passo | Procedimento | Resultado esperado |
+| --- | --- | --- |
+| 16 | Após veriicar os usuarios, voce pode adicionar cupons ou lojas, nisso voce clica em "Listar lanchonetes cadastradas",  | Apresentação do local. | 
+
+![](GestaoDeCupons.png)
+
+| Passo | Procedimento | Resultado esperado |
+| --- | --- | --- |
+|17 | Após a listagem, voce pode inserir um cupom novo ou excluir. | Apresentação do do local.|
+
+![](InsirirCupons.png)
+
+| Passo | Procedimento | Resultado esperado |
+| --- | --- | --- |
+| 18 | Voce tambem pode inserir uma nova loja, com as descrições da loja, foto e nome. |Apresentação do local. |
+
+![](EditarLanchonete.png)
 
